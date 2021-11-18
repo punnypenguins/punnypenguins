@@ -1,7 +1,6 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katherine-geerling-774929111/) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/punnypenguins)
 
-# Hey, I'm Katie, cool of you to swing by! :v::sparkle: 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=punnypenguins.punnypenguins&left_color=MediumVioletRed&right_color=MediumSlateBlue)
+# Hey, I'm Katie, cool of you to swing by! :v::sparkles: 
 
 production engineer, writer, scientist. very excited, will yell about science for zero dollars. really vibing with close-up moss photography right now. 
 👩🏻‍🔬 • 🏳️‍🌈 • ♿️ • 🥾✌🏻🤙🏻🏔
