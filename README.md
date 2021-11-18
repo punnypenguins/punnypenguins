@@ -14,4 +14,4 @@ production engineer, writer, scientist. very excited, will yell about science fo
 ### My Stats
 [![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=punnypenguins&show_icons=true&theme=synthwave)](https://github.com/punnypenguins/github-readme-stats) 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=punnypenguins&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=punnypenguins&theme=dracula&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
