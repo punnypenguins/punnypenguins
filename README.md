@@ -7,8 +7,8 @@
 👩🏻‍🔬 • 🏳️‍🌈 • ♿️ • 🥾✌🏻🤙🏻🏔
 
 * Samples of my [documentation writing](https://github.com/punnypenguins/writing-samples/tree/main/Documentation)
-* Main project: https://projectdelve.com/ - GitHub repo [here](https://github.com/punnypenguins/projectdelve)
-* Check out some of my [science explainers](https://github.com/punnypenguins/writing-samples/tree/main/Science%20Explainers)
+* My pet project: https://projectdelve.com/ - GitHub repo [here](https://github.com/punnypenguins/projectdelve)
+* Samples of my casual [science explainer](https://github.com/punnypenguins/writing-samples/tree/main/Science%20Explainers) writing pieces
 
 ## My Stats
 [![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=punnypenguins&show_icons=true&theme=synthwave)](https://github.com/punnypenguins/github-readme-stats)
