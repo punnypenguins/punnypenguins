@@ -6,10 +6,11 @@
 **production engineer, writer, scientist.** very excited, will yell about science for zero dollars. really vibing with close-up moss photography right now.
 👩🏻‍🔬 • 🏳️‍🌈 • ♿️ • 🥾✌🏻🤙🏻🏔
 
-**Check out:**
+### Check out...
 * Samples of my [documentation writing](https://github.com/punnypenguins/writing-samples/tree/main/Documentation)
 * My pet project: https://projectdelve.com/ - GitHub repo [here](https://github.com/punnypenguins/projectdelve)
 * Samples of my casual [science explainer](https://github.com/punnypenguins/writing-samples/tree/main/Science%20Explainers) writing pieces
+* My top two favorite nature photos I've taken - [Hall of Mosses archway tree](https://www.flickr.com/photos/192952359@N07/51167658415/) and [Sunrise Trail mountainside view](https://www.flickr.com/photos/192952359@N07/51166565371/)
 
 ## My Stats
 [![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=punnypenguins&show_icons=true&theme=synthwave)](https://github.com/punnypenguins/github-readme-stats)
