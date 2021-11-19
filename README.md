@@ -1,4 +1,4 @@
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katherine-geerling-774929111/) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/punnypenguins) [![@Venmo](https://img.shields.io/badge/-Venmo-3d95ce?style=flat&logo=venmo&logoColor=white)](https://@Katherine-Geerling) [![YouTube](https://img.shields.io/badge/-YouTube-FF0000&style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/JeffGeerling)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katherine-geerling-774929111/) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/punnypenguins) [![@Venmo](https://img.shields.io/badge/-Venmo-3d95ce?style=flat&logo=venmo&logoColor=white)](https://@Katherine-Geerling) 
 
 # Hey, I'm Katie, cool of you to swing by! :v::sparkles:
 
