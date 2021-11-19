@@ -6,6 +6,7 @@
 **production engineer, writer, scientist.** very excited, will yell about science for zero dollars. really vibing with close-up moss photography right now.
 👩🏻‍🔬 • 🏳️‍🌈 • ♿️ • 🥾✌🏻🤙🏻🏔
 
+* Samples of my [documentation writing](https://github.com/punnypenguins/writing-samples/tree/main/Documentation)
 * Main project: https://projectdelve.com/ - GitHub repo [here](https://github.com/punnypenguins/projectdelve)
 * Check out some of my [science explainers](https://github.com/punnypenguins/writing-samples/tree/main/Science%20Explainers)
 
