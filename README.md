@@ -8,7 +8,7 @@
 
 ### Check out...
 * Samples of my [documentation writing](https://github.com/punnypenguins/writing-samples/tree/main/Documentation)
-* My pet project: https://projectdelve.com/ - GitHub repo [here](https://github.com/punnypenguins/projectdelve)
+* My pet project: https://projectdelve.com/ (GitHub repo [here](https://github.com/punnypenguins/projectdelve))
 * Samples of my casual [science explainer](https://github.com/punnypenguins/writing-samples/tree/main/Science%20Explainers) writing pieces
 * My top two favorite nature photos I've taken - [Hall of Mosses archway tree](https://www.flickr.com/photos/192952359@N07/51167658415/) and [Sunrise Trail mountainside view](https://www.flickr.com/photos/192952359@N07/51166565371/)
 
