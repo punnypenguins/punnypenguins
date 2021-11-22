@@ -1,7 +1,6 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katherine-geerling-774929111/) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/punnypenguins) [![@Venmo](https://img.shields.io/badge/-Venmo-3d95ce?style=flat&logo=venmo&logoColor=white)](https://@Katherine-Geerling)
 
 # Hey, I'm Katie, cool of you to swing by! :v::sparkles:
-
 ## About me
 **Production engineer, writer, scientist.** Really vibing with close-up moss photography right now.
 👩🏻‍🔬 • 🏳️‍🌈 • ♿️ • 🥾✌🏻🤙🏻🏔
@@ -12,15 +11,10 @@
 Project Delve is a database that helps people find every currently-active distributed computing, citizen science, volunteer archivist, volunteer humanities research project you can do on the internet OR remotely.
 * [Website](https://projectdelve.com/)
 * [GitHub repository](https://github.com/punnypenguins/projectdelve)
-
 ### Check out...
 * ...my [online resume](punnypenguins.github.io)
 * ...samples of my my [documentation writing](https://github.com/punnypenguins/writing-samples/tree/main/Documentation)
 * ...samples of my [casual writing](https://github.com/punnypenguins/writing-samples/tree/main/Science%20Explainers)
-
-
-## My Stats
-[![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=punnypenguins&show_icons=true&theme=synthwave)](https://github.com/punnypenguins/github-readme-stats)
 
 
 ## My main tools
