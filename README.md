@@ -14,7 +14,7 @@
 
 # Current projects
 ## 🧬 Project Delve
-Project Delve is a database that helps people find every currently-active distributed computing, citizen science, volunteer archivist, volunteer humanities research project you can do on the internet OR remotely.
+A database that helps people find every currently-active distributed computing, citizen science, volunteer archivist, volunteer humanities research project you can do on the internet OR remotely.
 * [Website](https://projectdelve.com/)
 * [GitHub repository](https://github.com/punnypenguins/projectdelve)
 
