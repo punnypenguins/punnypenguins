@@ -23,7 +23,7 @@ Project Delve is a database that helps people find every currently-active distri
   
 ### Operating systems:
 
-![Apple Badge](https://img.shields.io/badge/Apple-000?logo=apple&logoColor=fff&style=flat) ![iOS Badge](https://img.shields.io/badge/iOS-000?logo=ios&logoColor=fff&style=flat) ![macOS Badge](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=flat) ![Microsoft Badge](https://img.shields.io/badge/Microsoft-5E5E5E?logo=microsoft&logoColor=fff&style=flat) ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
+![iOS Badge](https://img.shields.io/badge/iOS-000?logo=ios&logoColor=fff&style=flat) ![macOS Badge](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=flat) ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
   
 ### Work:
 
