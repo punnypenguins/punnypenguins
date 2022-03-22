@@ -1,4 +1,6 @@
 <a href='https://ko-fi.com/punnypenguins' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+  
+<a href="https://ko-fi.com/punnypenguins" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me a Coffee at ko-fi.com" width="150" ></a>
 
 # Cool of you to swing by! :v::sparkles:
 
