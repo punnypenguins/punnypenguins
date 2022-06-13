@@ -1,5 +1,3 @@
-<a href="https://ko-fi.com/punnypenguins" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me a Coffee at ko-fi.com" width="150" ></a>
-
 # Cool of you to swing by! :v::sparkles:
 
 # About me
