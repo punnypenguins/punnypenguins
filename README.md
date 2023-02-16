@@ -1,7 +1,7 @@
 # Cool of you to swing by! :v::sparkles:
 
 # About me
-**Production engineer, writer, scientist.** Really vibing with close-up moss photography right now.
+**Technical writer, content manager, and scientist.** Really vibing with close-up moss photography right now.
 👩🏻‍🔬 • 🏳️‍🌈 • ♿️ • 🥾✌🏻🤙🏻🏔
 
 ## Check out...
